@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+ 
+ <ElementType name="patient" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="Record"/>
+   </group>
+ </ElementType>
+
+ <ElementType name="Record" content="eltOnly" order="seq">
+     <element type="PHN"/>
+     <element type="first_name"/>
+     <element type="last_name"/>
+     <element type="dob"/>
+     <element type="sex"/>
+     <element type="address"/>
+     <element type="city"/>
+     <element type="prov"/>
+     <element type="postal_code"/>
+     <element type="phone"/>
+     <element type="email"/>
+ </ElementType>
+
+  <ElementType name="PHN" content="textOnly"/>
+  <ElementType name="first_name" content="textOnly"/>
+  <ElementType name="last_name" content="textOnly"/>
+  <ElementType name="dob" content="textOnly"/>
+  <ElementType name="sex" content="textOnly"/>
+  <ElementType name="address" content="textOnly"/>
+  <ElementType name="city" content="textOnly"/>
+  <ElementType name="prov" content="textOnly"/>
+  <ElementType name="postal_code" content="textOnly"/>
+  <ElementType name="phone" content="textOnly"/>
+  <ElementType name="email" content="textOnly"/>
+  
+</Schema>

@@ -1,0 +1,29 @@
+
+
+
+<?xml version="1.0" encoding="windows-1252"?> 
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+ <ElementType name="pharmacist" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="pharmacist"/>
+   </group>
+ </ElementType>
+ 
+ <ElementType name="pharmacist" content="eltOnly" order="seq">
+     <element type="pharmacist_id"/>
+     <element type="first_name" minOccurs="1" maxOccurs="*"/>
+     <element type="last_name"/>
+     <element type="dob"/>
+     <element type="sex"/>
+     <element type="phone"/>
+     <element type="email"/>
+ </ElementType>
+
+  <ElementType name="pharmacist_id" content="textOnly" order="one"/>
+  <ElementType name="first_name" content="textOnly" required="yes"/>
+  <ElementType name="last_name" content="textOnly" required="yes"/>
+  <ElementType name="dob" content="textOnly"/>
+  <ElementType name="sex" content="textOnly"/>
+  <ElementType name="phone" content="textOnly"/>
+  <ElementType name="email" content="textOnly"/>
+</Schema> 

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<prescriber>
+  <Record>
+    <prescriber_id>1</prescriber_id>
+    <first_name>Timothy</first_name>
+    <last_name>Lee</last_name>
+    <dob>11/12/1985</dob>
+    <sex>M</sex>
+    <phone>(250) 123-7488</phone>
+    <email>timoth@uvic.ca</email>
+    <college>gyneacology</college>
+  </Record>
+  <Record>
+    <prescriber_id>2</prescriber_id>
+    <first_name>Sarah</first_name>
+    <last_name>Tojo</last_name>
+    <dob>7/26/1987</dob>
+    <sex>F</sex>
+    <phone>(250) 884-2334</phone>
+    <email>sarah@uvic.ca</email>
+    <college>neurology</college>
+  </Record>
+  <Record>
+    <prescriber_id>3</prescriber_id>
+    <first_name>Chris</first_name>
+    <last_name>Dier</last_name>
+    <dob>11/24/1972</dob>
+    <sex>M</sex>
+    <phone>(250) 339-1234</phone>
+    <email>chris@uvic.ca</email>
+    <college>gastronenterology</college>
+  </Record>
+  <Record>
+    <prescriber_id>4</prescriber_id>
+    <first_name>Maria</first_name>
+    <last_name>OuYang</last_name>
+    <dob>4/12/1976</dob>
+    <sex>F</sex>
+    <phone>(250) 324-8790</phone>
+    <email>maria@uvic.ca</email>
+    <college>stomatology</college>
+  </Record>
+  <Record>
+    <prescriber_id>5</prescriber_id>
+    <first_name>Samantha</first_name>
+    <last_name>McBride</last_name>
+    <dob>6/27/1985</dob>
+    <sex>F</sex>
+    <phone>(250) 988-7332</phone>
+    <email>samantha@uvic.ca</email>
+    <college>orthopedics</college>
+  </Record>
+  <Record>
+    <prescriber_id>6</prescriber_id>
+    <first_name>Allan</first_name>
+    <last_name>McDonald</last_name>
+    <dob>11/6/1992</dob>
+    <sex>M</sex>
+    <phone>(778) 243-3440</phone>
+    <email>allan@uvic.ca</email>
+    <college>surgery</college>
+  </Record>
+  <Record>
+    <prescriber_id>7</prescriber_id>
+    <first_name>Spencer</first_name>
+    <last_name>Vinterlick</last_name>
+    <dob>10/17/1948</dob>
+    <sex>M</sex>
+    <phone>(250) 234-2988</phone>
+    <email>spencer@uvic.ca</email>
+    <college>ophthalmology</college>
+  </Record>
+  <Record>
+    <prescriber_id>8</prescriber_id>
+    <first_name>Kim</first_name>
+    <last_name>Lim</last_name>
+    <dob>9/5/1956</dob>
+    <sex>F</sex>
+    <phone>(250) 666-7890</phone>
+    <email>kim@uvic.ca</email>
+    <college>endocrinology</college>
+  </Record>
+  <Record>
+    <prescriber_id>9</prescriber_id>
+    <first_name>Judie</first_name>
+    <last_name>Scotte</last_name>
+    <dob>7/8/1962</dob>
+    <sex>F</sex>
+    <phone>(250) 991-9881</phone>
+    <email>judie@uvic.ca</email>
+    <college>stomatology</college>
+  </Record>
+  <Record>
+    <prescriber_id>10</prescriber_id>
+    <first_name>Jane</first_name>
+    <last_name>George</last_name>
+    <dob>9/8/1965</dob>
+    <sex>F</sex>
+    <phone>(778) 426-6677</phone>
+    <email>jane@uvic.ca</email>
+    <college>ophthalmology</college>
+  </Record>
+  <Record>
+    <prescriber_id>11</prescriber_id>
+    <first_name>Tome</first_name>
+    <last_name>Beeke</last_name>
+    <dob>1/27/1986</dob>
+    <sex>M</sex>
+    <phone>(250) 998-3342</phone>
+    <email>tom@uvic.ca</email>
+    <college>orthopedics</college>
+  </Record>
+  <Record>
+    <prescriber_id>12</prescriber_id>
+    <first_name>Jennifer</first_name>
+    <last_name>Johnson</last_name>
+    <dob>2/2/1991</dob>
+    <sex>F</sex>
+    <phone>(778) 623-4234</phone>
+    <email>jennifer@uvic.ca</email>
+    <college>neurology</college>
+  </Record>
+</prescriber>

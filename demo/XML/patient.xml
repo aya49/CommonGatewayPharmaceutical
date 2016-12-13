@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<patient>
+  <Record>
+    <PHN>65432</PHN>
+    <first_name>Alice</first_name>
+    <last_name>Kang</last_name>
+    <dob>1/1/1994</dob>
+    <sex>F</sex>
+    <address>120th Street</address>
+    <city>Vancouver</city>
+    <prov>BC</prov>
+    <postal_code>S3E 4O1</postal_code>
+    <phone>(250) 999-9992</phone>
+    <email>rodoctor@anl.gov</email>
+  </Record>
+  <Record>
+    <PHN>36543</PHN>
+    <first_name>Shenjun</first_name>
+    <last_name>Xie</last_name>
+    <dob>4/11/1992</dob>
+    <sex>F</sex>
+    <address>992th Street</address>
+    <city>Victoria</city>
+    <prov>BC</prov>
+    <postal_code>S9E 2L3</postal_code>
+    <phone>(250) 998-3934</phone>
+    <email>Scott,@netl.doe.gov</email>
+  </Record>
+  <Record>
+    <PHN>95413</PHN>
+    <first_name>Courtnay</first_name>
+    <last_name>Low</last_name>
+    <dob>5/30/1993</dob>
+    <sex>F</sex>
+    <address>12th pancer Street</address>
+    <city>Vancouver</city>
+    <prov>BC</prov>
+    <postal_code>H4I 9P3</postal_code>
+    <phone>(220) 983-9393</phone>
+    <email>Jim_zq@yahoo.com</email>
+  </Record>
+  <Record>
+    <PHN>65532</PHN>
+    <first_name>Krista</first_name>
+    <last_name>Low</last_name>
+    <dob>5/30/1993</dob>
+    <sex>F</sex>
+    <address>106th yest Street</address>
+    <city>Victoria</city>
+    <prov>BC</prov>
+    <postal_code>N7O 1N3</postal_code>
+    <phone>(250) 983-9934</phone>
+    <email>Hsiehulane@gmail.com</email>
+  </Record>
+  <Record>
+    <PHN>98225</PHN>
+    <first_name>Alex</first_name>
+    <last_name>Ng</last_name>
+    <dob>2/8/1993</dob>
+    <sex>F</sex>
+    <address>132th dougulast Street</address>
+    <city>Toronto</city>
+    <prov>Ontario</prov>
+    <postal_code>V8P 2P9</postal_code>
+    <phone>(220) 884-9389</phone>
+    <email>Shengjie@csclc.com</email>
+  </Record>
+  <Record>
+    <PHN>74655</PHN>
+    <first_name>Rober</first_name>
+    <last_name>Bittner</last_name>
+    <dob>8/1/994</dob>
+    <sex>M</sex>
+    <address>122th vancouver Street</address>
+    <city>York</city>
+    <prov>Ontario</prov>
+    <postal_code>V2O 3I9</postal_code>
+    <phone>(445) 982-9393</phone>
+    <email>Renxiangkun@csclc.com</email>
+  </Record>
+  <Record>
+    <PHN>15637</PHN>
+    <first_name>John</first_name>
+    <last_name>Zhou</last_name>
+    <dob>6/30/1992</dob>
+    <sex>M</sex>
+    <address>110th west Street</address>
+    <city>Edmonton</city>
+    <prov>Alberta</prov>
+    <postal_code>V3I 7Y8</postal_code>
+    <phone>(445) 998-2398</phone>
+    <email>jingz@gmail.com</email>
+  </Record>
+  <Record>
+    <PHN>79628</PHN>
+    <first_name>Sarah</first_name>
+    <last_name>Simith</last_name>
+    <dob>7/24/1989</dob>
+    <sex>F</sex>
+    <address>124th shelbourne Street</address>
+    <city>Ottwa</city>
+    <prov>Ontario</prov>
+    <postal_code>V2I 9O9</postal_code>
+    <phone>(554) 009-2309</phone>
+    <email>bbd@hotmail.com</email>
+  </Record>
+  <Record>
+    <PHN>45679</PHN>
+    <first_name>Jayne</first_name>
+    <last_name>Marvel</last_name>
+    <dob>8/29/1991</dob>
+    <sex>F</sex>
+    <address>29th innerhabour Street</address>
+    <city>Montreal</city>
+    <prov>Quebec</prov>
+    <postal_code>W2P 4P2</postal_code>
+    <phone>(445) 009-2382</phone>
+    <email>sdef@126.com</email>
+  </Record>
+  <Record>
+    <PHN>96110</PHN>
+    <first_name>Khalid</first_name>
+    <last_name>Rahiman</last_name>
+    <dob>6/25/1990</dob>
+    <sex>F</sex>
+    <address>123th forst Street</address>
+    <city>Ottwa</city>
+    <prov>Ontario</prov>
+    <postal_code>C6K 5H7</postal_code>
+    <phone>(234) 983-8394</phone>
+    <email>fere23@126.com</email>
+  </Record>
+  <Record>
+    <PHN>75311</PHN>
+    <first_name>Woodrow</first_name>
+    <last_name>Harrleson</last_name>
+    <dob>2/27/1990</dob>
+    <sex>M</sex>
+    <address>143th government Street</address>
+    <city>Montreal</city>
+    <prov>Quebec</prov>
+    <postal_code>C9M 8N7</postal_code>
+    <phone>(234) 893-9495</phone>
+    <email>sedf@gmil.com</email>
+  </Record>
+  <Record>
+    <PHN>96112</PHN>
+    <first_name>Edwin</first_name>
+    <last_name>Coffin</last_name>
+    <dob>9/18/1991</dob>
+    <sex>M</sex>
+    <address>998th hall Street</address>
+    <city>Victoria</city>
+    <prov>BC</prov>
+    <postal_code>V6M 9N7</postal_code>
+    <phone>(667) 948-2938</phone>
+    <email>eere@163.com</email>
+  </Record>
+</patient>

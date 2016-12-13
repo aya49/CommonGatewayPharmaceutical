@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<supplier>
+  <Record>
+    <supplier_id>1</supplier_id>
+    <company_name>Johnson & Johnson</company_name>
+  </Record>
+  <Record>
+    <supplier_id>2</supplier_id>
+    <company_name>Pfizer</company_name>
+  </Record>
+  <Record>
+    <supplier_id>3</supplier_id>
+    <company_name>Roche</company_name>
+  </Record>
+  <Record>
+    <supplier_id>4</supplier_id>
+    <company_name>GlaxoSmithKline</company_name>
+  </Record>
+  <Record>
+    <supplier_id>5</supplier_id>
+    <company_name>Novartis</company_name>
+  </Record>
+  <Record>
+    <supplier_id>7</supplier_id>
+    <company_name> 	Sanofi</company_name>
+  </Record>
+</supplier>

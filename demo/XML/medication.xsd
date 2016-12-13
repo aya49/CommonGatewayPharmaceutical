@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?> 
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+ <ElementType name="medication" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="Record"/>
+   </group>
+ </ElementType>
+ 
+ <ElementType name="Record" content="eltOnly" order="seq">
+     <element type="d_id"/>
+     <element type="genericName"/>
+     <element type="category"/>
+ </ElementType>
+
+  <ElementType name="d_id" content="textOnly"/>
+  <ElementType name="genericName" content="textOnly"/>
+  <ElementType name="category" content="textOnly"/>
+
+</Schema> 

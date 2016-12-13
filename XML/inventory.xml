@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<inventory>
+  <Record>
+    <d_id>1</d_id>
+    <supplier_id>4</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>20</quantity>
+  </Record>
+  <Record>
+    <d_id>2</d_id>
+    <supplier_id>7</supplier_id>
+    <unit_of_issue>box 10</unit_of_issue>
+    <quantity>5</quantity>
+  </Record>
+  <Record>
+    <d_id>3</d_id>
+    <supplier_id>1</supplier_id>
+    <unit_of_issue>box 20</unit_of_issue>
+    <quantity>10</quantity>
+  </Record>
+  <Record>
+    <d_id>4</d_id>
+    <supplier_id>2</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>11</quantity>
+  </Record>
+  <Record>
+    <d_id>5</d_id>
+    <supplier_id>5</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>16</quantity>
+  </Record>
+  <Record>
+    <d_id>6</d_id>
+    <supplier_id>2</supplier_id>
+    <unit_of_issue>box 20</unit_of_issue>
+    <quantity>9</quantity>
+  </Record>
+  <Record>
+    <d_id>7</d_id>
+    <supplier_id>3</supplier_id>
+    <unit_of_issue>pack 15</unit_of_issue>
+    <quantity>8</quantity>
+  </Record>
+  <Record>
+    <d_id>8</d_id>
+    <supplier_id>7</supplier_id>
+    <unit_of_issue>box 20</unit_of_issue>
+    <quantity>12</quantity>
+  </Record>
+  <Record>
+    <d_id>9</d_id>
+    <supplier_id>2</supplier_id>
+    <unit_of_issue>pack 15</unit_of_issue>
+    <quantity>13</quantity>
+  </Record>
+  <Record>
+    <d_id>10</d_id>
+    <supplier_id>5</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>42</quantity>
+  </Record>
+  <Record>
+    <d_id>11</d_id>
+    <supplier_id>3</supplier_id>
+    <unit_of_issue>box 20</unit_of_issue>
+    <quantity>25</quantity>
+  </Record>
+  <Record>
+    <d_id>12</d_id>
+    <supplier_id>4</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>31</quantity>
+  </Record>
+  <Record>
+    <d_id>13</d_id>
+    <supplier_id>1</supplier_id>
+    <unit_of_issue>pack 15</unit_of_issue>
+    <quantity>2</quantity>
+  </Record>
+  <Record>
+    <d_id>14</d_id>
+    <supplier_id>7</supplier_id>
+    <unit_of_issue>pack 10</unit_of_issue>
+    <quantity>3</quantity>
+  </Record>
+</inventory>

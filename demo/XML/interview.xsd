@@ -1,0 +1,25 @@
+ <ElementType name="interview" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="Record"/>
+   </group>
+ </ElementType>
+ 
+ <ElementType name="Record" content="eltOnly" order="seq">
+     <element type="interview_id"/>
+     <element type="date"/>
+     <element type="start_time"/>
+     <element type="end_time"/>
+     <element type="outcomes"/>
+     <element type="pharmacist_id"/>
+     <element type="PHN"/>
+ </ElementType>
+
+  <ElementType name="interview_id" content="textOnly" dt:type="ID"/>
+  <ElementType name="date" content="textOnly"/>
+  <ElementType name="start_time" content="textOnly"/>
+  <ElementType name="end_time" content="textOnly"/>
+  <ElementType name="outcomes" content="textOnly"/>
+  <ElementType name="pharmacist_id" content="textOnly"/>
+  <ElementType name="PHN" content="textOnly"/>
+
+</Schema> 

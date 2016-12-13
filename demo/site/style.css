@@ -1,0 +1,73 @@
+/* 2012 Nov
+   Alice Yue
+   Hinf200 */
+
+
+*, htm  { font-family: Verdana, Arial, Helvetica, sans-serif; }
+html {
+	font-size: 100%;
+	height: 100%;
+}
+body {
+	margin: 0 auto;
+	background-color: #ffffff;
+	font-size: 12px;
+}
+img {
+	text-align: center;
+	border: none;
+}
+h1, h3{
+	margin: 0;
+	padding: 0;
+}
+h1 {
+	text-align: center;
+	color: #03A87A;
+	font-family:"Times New Roman";
+	font-size: 81px
+}
+h3 {
+	text-align: center;
+	color: #053527;
+	font-size: 13px;
+}
+input, select, textarea { font-size:16px; }
+
+/* ------------------------------------------ ~Smooth~ --------------------------------------------- */
+dl {
+	margin: auto;
+	padding: 10px;
+	width: 800px;
+}
+	dl dt {
+		border: 1px solid #3B8A73;
+		background-color: #CBFCC9;
+		margin: 2px;
+	}
+		dl dt a {
+			color: #13785A;
+			font-weight: bold;
+			text-decoration: none;
+			padding: 10px;
+			display: block;
+		}
+	dl dd {
+		color: #3B8A73;
+		margin: 0;
+		overflow: hidden;
+		-webkit-transition: height 1s ease;				/*----------- ~Smoother~ ------------------*/
+		-moz-transition: height 1s ease;
+		-o-transition: height 1s ease;
+	}
+	dl dd:not(:target) { height: 0; }
+	dl dd:target { height: 250px; }
+	dl a.ie:hover dd, dl a.ie:focus dd {
+		height: auto;
+		color: #3B8A73;
+	}
+dl dd iframe {
+	width: 800px;
+	height: inherit;
+	border: none;
+}

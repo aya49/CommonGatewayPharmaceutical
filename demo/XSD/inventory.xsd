@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+ 
+ <ElementType name="inventory" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="Record"/>
+   </group>
+ </ElementType>
+
+ <ElementType name="Record" content="eltOnly" order="seq">
+     <element type="d_id"/>
+     <element type="supplier_id"/>
+     <element type="unit_of_issue"/>
+     <element type="quantity"/>
+     
+ </ElementType>
+
+  <ElementType name="d_id" content="textOnly" dt:type="yes"/>
+  <ElementType name="supplier_id" content="textOnly"/>
+  <ElementType name="unit_of_issue" content="textOnly"/>
+  <ElementType name="quantity" content="textOnly" dt:type="int"/>
+  
+</Schema>

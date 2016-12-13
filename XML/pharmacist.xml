@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<pharmacist>
+  <Record>
+    <pharmacist_id>1</pharmacist_id>
+    <first_name>Victoria</first_name>
+    <last_name>Nam</last_name>
+    <dob>11/22/1965</dob>
+    <sex>F</sex>
+    <phone>(250) 123-4567</phone>
+    <email>Victoria@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>2</pharmacist_id>
+    <first_name>Cindy</first_name>
+    <last_name>McLauren</last_name>
+    <dob>10/17/1964</dob>
+    <sex>F</sex>
+    <phone>(250) 122-2222</phone>
+    <email>Cindy@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>3</pharmacist_id>
+    <first_name>Kris</first_name>
+    <last_name>Mi</last_name>
+    <dob>11/12/1987</dob>
+    <sex>F</sex>
+    <phone>(250) 883-9992</phone>
+    <email>Kris@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>4</pharmacist_id>
+    <first_name>Soh</first_name>
+    <last_name>Young</last_name>
+    <dob>4/18/1954</dob>
+    <sex>M</sex>
+    <phone>(250) 998-3988</phone>
+    <email>Soh@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>5</pharmacist_id>
+    <first_name>Ming</first_name>
+    <last_name>Lu</last_name>
+    <dob>1/19/1987</dob>
+    <sex>M</sex>
+    <phone>(250) 666-6777</phone>
+    <email>Ming@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>6</pharmacist_id>
+    <first_name>Helen</first_name>
+    <last_name>Thomson</last_name>
+    <dob>8/14/1991</dob>
+    <sex>F</sex>
+    <phone>(250) 888-9987</phone>
+    <email>Helen@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>7</pharmacist_id>
+    <first_name>Sue</first_name>
+    <last_name>Klein</last_name>
+    <dob>9/4/1964</dob>
+    <sex>F</sex>
+    <phone>(250) 123-3211</phone>
+    <email>Sue@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>8</pharmacist_id>
+    <first_name>Ken</first_name>
+    <last_name>Xie</last_name>
+    <dob>7/9/1989</dob>
+    <sex>M</sex>
+    <phone>(250) 788-9998</phone>
+    <email>Ken@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>9</pharmacist_id>
+    <first_name>Marry</first_name>
+    <last_name>Skidmore</last_name>
+    <dob>1/31/1886</dob>
+    <sex>F</sex>
+    <phone>(255) 554-4444</phone>
+    <email>Marry@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>10</pharmacist_id>
+    <first_name>Agusta</first_name>
+    <last_name>Lewis</last_name>
+    <dob>2/1/1965</dob>
+    <sex>F</sex>
+    <phone>(250) 999-8987</phone>
+    <email>Vagusta@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>11</pharmacist_id>
+    <first_name>Eliza</first_name>
+    <last_name>Simpson</last_name>
+    <dob>4/29/1987</dob>
+    <sex>F</sex>
+    <phone>(250) 678-9876</phone>
+    <email>Eliza@uvic.ca</email>
+  </Record>
+  <Record>
+    <pharmacist_id>12</pharmacist_id>
+    <first_name>Rebecca</first_name>
+    <last_name>West</last_name>
+    <dob>12/30/1990</dob>
+    <sex>F</sex>
+    <phone>(250) 898-7664</phone>
+    <email>Rebecca@uvic.ca</email>
+  </Record>
+</pharmacist>

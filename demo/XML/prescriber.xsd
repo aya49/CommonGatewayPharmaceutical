@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Schema xmlns="urn:schemas-microsoft-com:xml-data" xmlns:dt="urn:schemas-microsoft-com:datatypes">
+ 
+ <ElementType name="prescriber" content="mixed">
+   <group minOccurs="0" maxOccurs="*">
+      <element type="Record"/>
+   </group>
+ </ElementType>
+
+ <ElementType name="Record" content="eltOnly" order="seq">
+     <element type="prescriber_id"/>
+     <element type="first_name"/>
+     <element type="last_name"/>
+     <element type="dob"/>
+     <element type="phone"/>
+     <element type="email"/>
+     <element type="college"/>
+ </ElementType>
+
+  <ElementType name="prescriber_id" content="textOnly" dt:type="ID"/>
+  <ElementType name="first_name" content="textOnly" required="yes"/>
+  <ElementType name="last_name" content="textOnly" required="yes"/>
+  <ElementType name="dob" content="textOnly"/>
+  <ElementType name="sex" content="textOnly" dt:type="enumberation" dt:values="M F O"/>
+  <ElementType name="phone" content="textOnly"/>
+  <ElementType name="email" content="textOnly"/>
+  <ElementType name="college" content="textOnly"/>
+  
+</Schema>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<medication>
+  <Record>
+    <d_id>1</d_id>
+    <genericName>gabapentin</genericName>
+    <category>anti-epileptic</category>
+  </Record>
+  <Record>
+    <d_id>2</d_id>
+    <genericName>amlodipine</genericName>
+    <category>high blood pressure</category>
+  </Record>
+  <Record>
+    <d_id>3</d_id>
+    <genericName>paclitaxel</genericName>
+    <category>anti-cancer</category>
+  </Record>
+  <Record>
+    <d_id>4</d_id>
+    <genericName>aspirin</genericName>
+    <category>migraine</category>
+  </Record>
+  <Record>
+    <d_id>5</d_id>
+    <genericName>cilostazol</genericName>
+    <category>coagulation therapy</category>
+  </Record>
+  <Record>
+    <d_id>6</d_id>
+    <genericName>atrovastatin</genericName>
+    <category>high cholesterol</category>
+  </Record>
+  <Record>
+    <d_id>7</d_id>
+    <genericName>bupropion</genericName>
+    <category>depression</category>
+  </Record>
+  <Record>
+    <d_id>8</d_id>
+    <genericName>extavia</genericName>
+    <category>Multiple sclerosis</category>
+  </Record>
+  <Record>
+    <d_id>9</d_id>
+    <genericName>humalog vials</genericName>
+    <category>insulin</category>
+  </Record>
+  <Record>
+    <d_id>10</d_id>
+    <genericName>nutropin</genericName>
+    <category>growth hormone</category>
+  </Record>
+  <Record>
+    <d_id>11</d_id>
+    <genericName>ciprofloxacin</genericName>
+    <category>antibiotics</category>
+  </Record>
+  <Record>
+    <d_id>12</d_id>
+    <genericName>granisteron tablet</genericName>
+    <category>nausea/vomiting</category>
+  </Record>
+  <Record>
+    <d_id>13</d_id>
+    <genericName>alendronate</genericName>
+    <category>osteoporosis</category>
+  </Record>
+  <Record>
+    <d_id>14</d_id>
+    <genericName>nabumetone</genericName>
+    <category>pain relief</category>
+  </Record>
+</medication>
