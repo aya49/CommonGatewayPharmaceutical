@@ -8,6 +8,8 @@ After files are converted, they are verified before being sent.
 + Open [index.html] (./demo/index.html) and follow the navigation in the top menu.
 + Try out the XML conversions using samples files in [XML] (./XML).
 + Rules used tot verify the XMLs are in [XSD] (./XSD).
++ [db_interaction.png] (./db_interaction.png) is the interaction diagram that describes the human computer interaction between the user and the web interface
++ [ERD.png] (./ERD.png) is the ERD (Entity Relationship Diagram) that displays the design of the database.
 
 ![screenshot.png] (./screenshot.png)
 
