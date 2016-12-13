@@ -9,3 +9,5 @@ After files are converted, they are verified before being sent.
 + Try out the XML conversions using samples files in [XML] (./XML).
 + Rules used tot verify the XMLs are in [XSD] (./XSD).
 
+![screenshot.png] (./screenshot.png)
+
