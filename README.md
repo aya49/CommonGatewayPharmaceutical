@@ -5,7 +5,7 @@ This system uses a universal template such that all pharmacies can retain their 
 After files are converted, they are verified before being sent.
 
 ## Demo
-+ [index.html](http://htmlpreview.github.io/?https://github.com/aya49/CommonGatewayPharmaceutical-project/blob/master/demo/index.html) is the interface that allows users to perform XML conversion.
+Download the repository and open [index.html](http://htmlpreview.github.io/?https://github.com/aya49/CommonGatewayPharmaceutical-project/blob/master/demo/index.html) to see the demo.
 + [XML](./XML) contains example input data to test the system.
 + [XSD](./XSD) contains rules used to verify the XMLs.
 + [db_interaction.png](./db_interaction.png) is the interaction diagram that describes the human computer interaction between the user and the web interface.
